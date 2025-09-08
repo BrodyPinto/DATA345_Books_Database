@@ -37,6 +37,6 @@ Technologies Used
 
  - Python 3
 
- - SQLite / PostgreSQL (based on connect.py)
+ - PostgreSQL
 
  - Pytest for automated testing
