@@ -1,7 +1,7 @@
 # DATA345_Books_Database
 Book Ratings Management System
 
-This project is a Python-based system for managing books, users, and ratings with database integration. It provides functionality to add, retrieve, and manage data using SQL for books, users, and their ratings, along with a set of automated tests to ensure reliability.
+This project is a Python-based system for managing books, users, and ratings with database integration. It provides functionality to add, retrieve, and manage data using SQL for books, users, and their ratings, along with a set of unit tests to ensure reliability.
 
 Features:
 
@@ -31,7 +31,7 @@ Database Integration
 
 Testing
 
- - Automated tests (test_book.py, test_user.py, test_rating.py) ensure the correctness of data handling and queries against the gold testfiles.
+ - Unit tests (test_book.py, test_user.py, test_rating.py) ensure the correctness of data handling and queries against the gold testfiles.
 
 Technologies Used
 
